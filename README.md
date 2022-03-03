@@ -21,6 +21,3 @@ Using OOP, the responsibilities are segregated in their classes which are stored
 2. The code is lean and the test cases has been constructed to cover most edge cases, allowing for further refactoring.
 3. Other features such as volume, market order functions such as FOK can be implemented.
 
-# Thank you for you time! 
-
-
